@@ -1,0 +1,31 @@
+{
+  "name"		: "leaflet-polyline-mixin",
+  "version"	: "1.0.0",
+  "homepage": "https://github.com/FCOO/leaflet-polyline-mixin",
+  "authors": [
+    "Niels Holt"
+  ],
+  "description": "",
+  "main": "dist/_leaflet-polyline-mixin.scss",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/FCOO/leaflet-polyline-mixin.git"
+	},
+
+	"dependencies": {},
+
+	"devDependencies": {},
+	
+	"license": "MIT",
+
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "moduleType": [
+    "es6"
+  ]
+}
